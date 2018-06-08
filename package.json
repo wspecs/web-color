@@ -10,9 +10,11 @@
     "test": "mocha ./dist/test/*.js"
   },
   "keywords": [
-    "tsm",
-    "starter",
-    "tsm-starter"
+    "web",
+    "color",
+    "rgb",
+    "hex",
+    "rgba",
   ],
   "author": {
     "name": "Wendly Saintil",
