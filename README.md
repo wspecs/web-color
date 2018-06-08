@@ -1,19 +1,19 @@
-# /Users/wendly/Documents/projects/web-color
+# web-color
 
-![npm](https://img.shields.io/npm/v//Users/wendly/Documents/projects/web-color.svg) ![license](https://img.shields.io/npm/l//Users/wendly/Documents/projects/web-color.svg) ![github-issues](https://img.shields.io/github/issues/wspecs//Users/wendly/Documents/projects/web-color.svg)
+![npm](https://img.shields.io/npm/v/web-color.svg) ![license](https://img.shields.io/npm/l/web-color.svg) ![github-issues](https://img.shields.io/github/issues/web-color.svg)
 
 
 
-![nodei.co](https://nodei.co/npm//Users/wendly/Documents/projects/web-color.png?downloads=true&downloadRank=true&stars=true)
+![nodei.co](https://nodei.co/npm/web-color.png?downloads=true&downloadRank=true&stars=true)
 
-![travis-status](https://img.shields.io/travis/wspecs//Users/wendly/Documents/projects/web-color.svg)
-![stars](https://img.shields.io/github/stars/wspecs//Users/wendly/Documents/projects/web-color.svg)
-![forks](https://img.shields.io/github/forks/wspecs//Users/wendly/Documents/projects/web-color.svg)
+![travis-status](https://img.shields.io/travis/web-color.svg)
+![stars](https://img.shields.io/github/stars/web-color.svg)
+![forks](https://img.shields.io/github/forks/web-color.svg)
 
-![forks](https://img.shields.io/github/forks/wspecs//Users/wendly/Documents/projects/web-color.svg)
+![forks](https://img.shields.io/github/forks/web-color.svg)
 
-![](https://david-dm.org/wspecs//Users/wendly/Documents/projects/web-color/status.svg)
-![](https://david-dm.org/wspecs//Users/wendly/Documents/projects/web-color/dev-status.svg)
+![](https://david-dm.org/web-color/status.svg)
+![](https://david-dm.org/web-color/dev-status.svg)
 
 ## Features
 
@@ -35,7 +35,7 @@ console.log(color.WHITE);
 [docs/README.md](See full color list)
 ## Install
 
-`npm install --save /Users/wendly/Documents/projects/web-color`
+`npm install --save web-color`
 
 ## Scripts
 

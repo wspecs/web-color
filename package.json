@@ -1,10 +1,10 @@
 {
-  "name": "/Users/wendly/Documents/projects/web-color",
+  "name": "web-color",
   "version": "0.0.1",
   "description": "",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
-  "repository": "wspecs//Users/wendly/Documents/projects/web-color",
+  "repository": "web-color",
   "scripts": {
     "build": "rm -rf dist && tsc",
     "test": "mocha ./dist/test/*.js"
