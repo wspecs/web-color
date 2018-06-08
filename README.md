@@ -1,8 +1,8 @@
 # web-color
 
+A simple package with lots of web color names.
+
 ![npm](https://img.shields.io/npm/v/web-color.svg) ![license](https://img.shields.io/npm/l/web-color.svg) ![github-issues](https://img.shields.io/github/issues/web-color.svg)
-
-
 
 ![nodei.co](https://nodei.co/npm/web-color.png?downloads=true&downloadRank=true&stars=true)
 

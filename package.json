@@ -1,7 +1,7 @@
 {
   "name": "web-color",
   "version": "0.0.3",
-  "description": "",
+  "description": "A simple package with lots of web color names.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": "web-color",
