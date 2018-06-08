@@ -32,7 +32,7 @@ console.log(color.WHITE);
 // {red: 255, green 255, blue: 255, rgb: 'FFFFFF'}
 ```
 
-[docs/README.md](See full color list)
+[See full color list](docs/README.md)
 ## Install
 
 `npm install --save web-color`
