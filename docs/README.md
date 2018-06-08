@@ -10,7 +10,7 @@ const red = color.RED
 ## Full Color List
 
 | Name | RGB | Hex |
------------------
+-------|-------|---
 | ALICEBLUE | 240, 248, 255] | #F0F8FF |
 | ANTIQUEWHITE | 250, 235, 215] | #FAEBD7 |
 | ANTIQUEWHITE_1 | 255, 239, 219] | #FFEFDB |
