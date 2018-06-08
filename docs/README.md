@@ -4,7 +4,8 @@
 ```javascript
 import {color} from 'web-color';
 
-const red = color.RED```
+const red = color.RED
+```
 
 ## Full Color List
 
